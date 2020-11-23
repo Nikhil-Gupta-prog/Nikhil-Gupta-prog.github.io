@@ -54,7 +54,7 @@ body {
   }
 
 .carousel .carousel-item {
-      height: 410px; 
+      height: 430px; 
     }
 .carousel .carousel-item img {
         position: absolute;
@@ -152,7 +152,7 @@ body {
 
   @media (max-width: 575px) {
     .one-slide {
-      height: 240px;
+      height: 200px;
     }
 
     img {
